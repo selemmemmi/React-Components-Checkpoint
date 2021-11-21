@@ -1,0 +1,28 @@
+h1{
+  text-align: center;
+  padding-bottom: 20%;
+  padding-top: 5%;
+  background-color:#0074ec ;
+  color:#f0f2f5 ;
+  margin: 0;
+  font-family: 'Praise', cursive;
+  font-family: 'Quicksand', sans-seri
+}
+img{
+  width: 500px;
+  height: 500px;
+  border: 3px solid;
+  border-radius: 1.5%;
+  border-color: #ffffff;
+  transform: translate(100% , -50%);
+  margin: 0;
+}
+.image{
+  background-color: #ececec;
+}
+h2{
+  text-align: center;
+  transform: translateY(-150px);
+  font-family: 'Praise', cursive;
+font-family: 'Quicksand', sans-seri
+}
